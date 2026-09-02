@@ -1,6 +1,6 @@
 %% setup_project.m — Tactical PHY Simulation System Setup (MATLAB)
 %  Author: ARYA-mgc
-%  Repository: https://github.com/ARYA-mgc/802.11ah-af-phy-sim
+%  Repository: https://github.com/ARYA-mgc/tactical-mesh-phy-sim-
 %
 %  Run this script once after opening MATLAB to configure all module paths.
 %  Usage:  >> setup_project
