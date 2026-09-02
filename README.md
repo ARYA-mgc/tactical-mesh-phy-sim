@@ -42,8 +42,7 @@ This platform simulates an advanced dual-band tactical communication system desi
 ### Electronic Warfare (EW) Attack & Defense Telemetry
 ![EW Defense Results](docs/images/ew_attack_defense_results.png)
 
-### Overall Simulink Model Telemetry
-![Simulink Overall Output](docs/images/simulink_overall_model_output.png)
+
 
 ---
 
