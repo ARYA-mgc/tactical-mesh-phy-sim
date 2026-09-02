@@ -9,7 +9,7 @@ An end-to-end tactical wireless physical layer (PHY) simulation platform combini
 
 ---
 
-## 📖 Real-World Overview (In Simple Terms)
+## Real-World Overview (In Simple Terms)
 
 In tactical operations (Close Quarters Battle - CQB, underground tunnels, disaster zones, or hostile electronic warfare environments), commercial 2.4 GHz and 5 GHz Wi-Fi fail because high-frequency signals cannot penetrate thick concrete, blast doors, or earth.
 
@@ -31,7 +31,7 @@ This platform simulates an advanced dual-band tactical communication system desi
 
 ---
 
-## 🖼️ System Architecture & Visual Results
+## System Architecture & Visual Results
 
 ### Tactical Mesh Network Architecture
 ![Tactical Mesh Architecture](docs/images/tactical_mesh_network_architecture.png)
@@ -47,7 +47,7 @@ This platform simulates an advanced dual-band tactical communication system desi
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 The project has been organized into a clean, modular structure:
 
@@ -102,7 +102,7 @@ The project has been organized into a clean, modular structure:
 
 ---
 
-## 🚀 Quick-Start Guide
+## Quick-Start Guide
 
 ### 1. Prerequisites
 - **MATLAB** (R2018b or newer, tested on R2024b)
@@ -159,7 +159,7 @@ Simulates hostile electronic attack profiles (pre-jamming, active jamming, and f
 
 ---
 
-## 📡 Signal Processing Pipeline
+## Signal Processing Pipeline
 
 The physical layer signal processing chain implements standard compliant blocks:
 
@@ -171,7 +171,7 @@ $$\text{CP Removal} \longrightarrow \text{FFT} \longrightarrow \text{Zero-Forcin
 
 ---
 
-## ⚖️ Academic Citation & License
+## Academic Citation & License
 
 This repository is distributed under the **MIT License**.
 
